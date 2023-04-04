@@ -3,7 +3,7 @@
  To write a C# program to calculate the salary of an employee by passing the name, designation, noofexperience, basic salary and insurance amount through constructor.
  
  ## Algorithm:
-### step 1:
+### Step 1:
 Start the C# program in visual studio 2022.
 
 ### Step 2:
