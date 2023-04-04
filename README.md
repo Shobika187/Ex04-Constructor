@@ -10,7 +10,7 @@ Start the C# program in visual studio 2022.
 Create a class and a constructor.
 
 ### Step 3:
-Get employee name, Designation, No of experience, basic salary and insurance amount from the User.
+Get employee name, Designation,experience, basic salary and insurance amount from the User.
 
 ### Step 4:
 Call salary method in constructor to calculate salary.
